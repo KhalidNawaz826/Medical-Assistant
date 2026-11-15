@@ -1,0 +1,12 @@
+# MedQuAD Bilingual Medical Assistant Dependencies
+
+# Phase 1: Data Ingestion
+# Ingestion uses Python's standard library (xml.etree.ElementTree, json, pathlib).
+
+# Phase 2: Keyword Search (BM25)
+rank-bm25>=0.2.2
+
+# Phase 3: Future RAG & Chatbot components (to be installed when needed)
+# chromadb
+# sentence-transformers
+# google-generativeai
