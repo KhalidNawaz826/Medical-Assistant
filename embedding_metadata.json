@@ -1,0 +1,13 @@
+{
+  "model_name": "intfloat/multilingual-e5-small",
+  "record_count": 981,
+  "embedding_dimension": 384,
+  "dtype": "float32",
+  "normalized": true,
+  "document_prefix": "passage: ",
+  "source_records_file": "records.jsonl",
+  "source_records_sha256": "38bc2ed3cd9f12ef706972ec918a76ef1651da8bc73c58aa57848922324ec9d7",
+  "ordered_record_id_fingerprint": "9af491886ba0648f42a2ca1377568200a85eccb53cce08dd9d61c898a20416db",
+  "created_at_utc": "2026-11-17T12:43:16Z",
+  "encoding_duration_seconds": 86.94
+}
